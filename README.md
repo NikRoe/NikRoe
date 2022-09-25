@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning how to code 
 
+![NikRoe's github stats](https://github-readme-stats.vercel.app/api?username=NikRoe&count_private=true&show_icons=true&theme=vue-dark)
+
 <!--
 **NikRoe/NikRoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
