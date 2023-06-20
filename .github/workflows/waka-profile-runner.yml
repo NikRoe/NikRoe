@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: self-hosted
     steps:
-      - uses: NikRoe/NikRoe
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
